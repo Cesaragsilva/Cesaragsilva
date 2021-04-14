@@ -12,4 +12,6 @@ I'm Cesar Augusto, I'm a Full Stack developer 👨‍💻 who is passionate abou
 - 💬 Ask me about: tech, software architecture, Ci/Cd with Azure Devops and Scrum.
 - ⚡ Technologies: .NET Platform, Docker, Openshift and Kubernetes, Angular, Ionic, Flutter, Node, React, RabbitMQ, Java, Kotlin and Swift(IOS).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaragsilva&show_icons=true&theme=radical)
+
 "The technology move the world! By Steve Jobs" 
