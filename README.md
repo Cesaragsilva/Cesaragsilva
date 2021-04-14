@@ -10,7 +10,7 @@ I'm Cesar Augusto, I'm a Full Stack developer 👨‍💻 who is passionate abou
 - 🔭 I’m currently working on .NET Core and Docker/k8s
 - 🌱 I’m currently learning k8s, DevOps CI/CD with Jenkins, Kafka, Flutter and improve my knowlege in NodeJs
 - 💬 Ask me about: tech, software architecture, Ci/Cd with Azure Devops and Scrum.
-- ⚡ Technologies: .NET Platform, Docker, Openshift and Kubernetes, Angular, Ionic, Flutter, Node, React, RabbitMQ, Java, Kotlin and Swift(IOS).
+- ⚡ Technologies: .NET Platform, Docker, Openshift and Kubernetes, Angular, Ionic, Flutter, Node, React, RabbitMQ, Kafka, Apache Nifi, Java, Kotlin and Swift(IOS).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaragsilva&show_icons=true&theme=radical)
 
