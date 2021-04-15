@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@educador.cesar)](https://medium.com/@educador.cesar) 
 
 ## Hi 👋, 
-I'm Cesar Augusto, I'm a Full Stack developer 👨‍💻 who is passionate about .NET, JavaScript, Docker, K8s technologies and its entire ecosystem. 
+I'm Cesar Augusto, I'm a Solutions Architecture 👨‍💻 who is passionate about .NET, JavaScript, Docker, K8s technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on .NET Core and Docker/k8s
 - 🌱 I’m currently learning k8s, DevOps CI/CD with Jenkins, Kafka, Flutter and improve my knowlege in NodeJs
