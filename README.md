@@ -12,6 +12,8 @@ I'm Cesar Augusto, I'm a Solutions Architecture 👨‍💻 who is passionate ab
 - 💬 Ask me about: tech, software architecture, Ci/Cd with Azure Devops and Scrum.
 - ⚡ Technologies: .NET Platform, Docker, Openshift and Kubernetes, Angular, Ionic, Flutter, Node, React, RabbitMQ, Kafka, Apache Nifi, Java, Kotlin and Swift(IOS).
 
+[Know me](https://csilva.carrd.co/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaragsilva&show_icons=true&theme=radical)
 
 "The technology move the world! By Steve Jobs" 
